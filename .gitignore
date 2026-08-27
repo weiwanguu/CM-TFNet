@@ -1,0 +1,19 @@
+# Training artifacts
+checkpoints/
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# OS / editors
+.DS_Store
+Thumbs.db
+~$*.xlsx
+.idea/
+.vscode/
